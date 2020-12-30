@@ -1,0 +1,6 @@
+azure-common
+msrestazure
+azure-graphrbac
+azure-mgmt-storage
+azure-identity
+azure-storage-file-datalake
